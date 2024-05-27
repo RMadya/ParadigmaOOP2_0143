@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encapsulation", "Encapsulat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoOpenDading", "NoOpenDading\NoOpenDading.vcxproj", "{AC0807F8-DF4B-4229-B0AD-F4546791561C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstaction", "Abstaction\Abstaction.vcxproj", "{77927226-265A-41B4-BC7B-698712A3E04F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{AC0807F8-DF4B-4229-B0AD-F4546791561C}.Release|x64.Build.0 = Release|x64
 		{AC0807F8-DF4B-4229-B0AD-F4546791561C}.Release|x86.ActiveCfg = Release|Win32
 		{AC0807F8-DF4B-4229-B0AD-F4546791561C}.Release|x86.Build.0 = Release|Win32
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Debug|x64.ActiveCfg = Debug|x64
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Debug|x64.Build.0 = Debug|x64
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Debug|x86.ActiveCfg = Debug|Win32
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Debug|x86.Build.0 = Debug|Win32
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Release|x64.ActiveCfg = Release|x64
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Release|x64.Build.0 = Release|x64
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Release|x86.ActiveCfg = Release|Win32
+		{77927226-265A-41B4-BC7B-698712A3E04F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
